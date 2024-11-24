@@ -85,6 +85,46 @@
   "author_id": 5,
   "photo_url": "https://gdr.com.ua/wp-content/uploads/2020/11/tormoz-01.png"
 },
+{
+  "id": 6,
+  "name": "candles",
+  "description": "to start your engine",
+  "price": "800$",
+  "author_id": 6,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVrLDMAwsx89EaMuU_DyNPfjPSkCARKsAjg&s"
+},
+{
+  "id": 7,
+  "name": "wheels",
+  "description": "so that your car could drive",
+  "price": "900$",
+  "author_id": 7,
+  "photo_url": "https://ireland.apollo.olxcdn.com/v1/files/wvu8tp0so2gv2-UA/image;s=1000x750"
+},
+{
+  "id": 8,
+  "name": "gear box",
+  "description": "in order to switch gears",
+  "price": "1200$",
+  "author_id": 8,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYLcYWxRBE2PNMUZcsIx47dogzQZKDN-NlQ&s"
+},
+{
+  "id": 9,
+  "name": "Suspension springs",
+  "description": "for your comfort",
+  "price": "900$",
+  "author_id": 9,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRed4ks2f_UwufulttIKFuDNk5CIzYf7IRRKA&s"
+},
+{
+  "id": 10,
+  "name": "radiator",
+  "description": "to cool your car",
+  "price": "900$",
+  "author_id": 10,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhNkEborcsxoxdiD_b1U8_liA71CwvqZZ4A&s"
+},
 
 ]
 

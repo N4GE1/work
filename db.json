@@ -42,5 +42,51 @@
 
 
       }
-  ]
+  ],
+
+  "products": [
+    {
+        "id": 1,
+        "name": "engine",
+        "description": "2JZ for your car",
+        "price": 4000$,
+        "author_id": 1,
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WokW3Jx0eJJxtLoOwV8HVfjqQ4Wiamn4DQ&s"
+    },
+    {
+      "id": 2,
+      "name": "carburettor",
+      "description": "The best carburettor for your 'princes'",
+      "price": 2000$,
+      "author_id": 2,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5E_suWxKQfm87540ndbUQRPpp1Ppuy5M9dA&s"
+  },
+  {
+    "id": 3,
+    "name": "chassis",
+    "description": "Good stabilisation for your comfortable",
+    "price": 8000$,
+    "author_id": 3,
+    "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIRdWbqyHmFyHltrD4FBSncotonua8WZ-fdg&s"
+},
+{
+  "id": 4,
+  "name": "body of car",
+  "description": "Best body for gtr35",
+  "price": 1000$,
+  "author_id": 4,
+  "photo_url": "https://image.made-in-china.com/2f0j00CyPoKkFqQjcY/R35-Gtr-Upgrade-Nismo-2017-Body-Kit-Parts-for-Nissan-Gtr-R35-Car-Bumper.webp"
+},
+{
+  "id": 5,
+  "name": "brake discs",
+  "description": "It`s for your safty",
+  "price": 1200$,
+  "author_id": 5,
+  "photo_url": "https://gdr.com.ua/wp-content/uploads/2020/11/tormoz-01.png"
+},
+
+]
+
 }
+

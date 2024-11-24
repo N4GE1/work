@@ -1,5 +1,46 @@
 {
   "users":[
+    {
+      
+      "id": 1,
+      "name": "Andriy",
+      "sirname": "Moskalenko",
+      "photo_url": "",
+      "balance":1500
+      },
+      {
+    
+      "id": 2,
+      "name": "Yuriy",
+      "sirname": "Berezovchuk",
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaudiYjzTfgDNnhuPxh32Vng6D-JO9TYXOg&s",
+      
+      "balance": 5790
+      },
+      {
+      "id": 3,
+      
+      "name": "Cat",
+      
+      "sirname": "Egyptian",
+     
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDRUujoAxSH8PlN0uk82gbbKFOgrj9hvscdA&s",
+      
+      "balance": 90
+      
+      },
+      {
+        "id": 3,
+      
+        "name": "Vanya",
+        
+        "sirname": "Shevchenko",
+       
+        "photo_url": "",
+        
+        "balance": 9060
 
+
+      }
   ]
 }

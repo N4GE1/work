@@ -113,7 +113,7 @@
   "id": 9,
   "name": "Suspension springs",
   "description": "for your comfort",
-  "price": "900$",
+  "price": "1000$",
   "author_id": 9,
   "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRed4ks2f_UwufulttIKFuDNk5CIzYf7IRRKA&s"
 },
@@ -124,6 +124,70 @@
   "price": "900$",
   "author_id": 10,
   "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThhNkEborcsxoxdiD_b1U8_liA71CwvqZZ4A&s"
+},
+{
+  "id": 11,
+  "name": "battery",
+  "description": "to get your engine started",
+  "price": "1100$",
+  "author_id": 11,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitSj4Two6dg4p7l-co28UlCKaLYaZZD4mlw&s"
+},
+{
+  "id": 12,
+  "name": "fuel tank",
+  "description": "to save fuel",
+  "price": "2000$",
+  "author_id": 12,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQejy76QSXec-ZxEoN-HP4glMUBC-SS-Hpl0g&s"
+},
+{
+  "id": 13,
+  "name": "headlight",
+  "description": "to light your path",
+  "price": "500$",
+  "author_id": 13,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStyBEFgLgpm-77UvX5ncztPa9Gh75Mzb7NYQ&s"
+},
+{
+  "id": 14,
+  "name": "injectores",
+  "description": "in order to supply a previously calculated dose of gasoline to the engine",
+  "price": "800$",
+  "author_id": 14,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRg2E11IjI2oysUHAl0jQyISt_YreJSDgQg&s"
+},
+{
+  "id": 15,
+  "name": "bumper",
+  "description": "in order to protect you",
+  "price": "600$",
+  "author_id": 15,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgV3o87YboMm6JbctvmZ8yWHHs0JUtbQ8AQ&s"
+},
+{
+  "id": 16,
+  "name": "windshield",
+  "description": "allows the driver to look ahead",
+  "price": "1200$",
+  "author_id": 16,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdNOUuVScQU4XqUPF92iijRwhwhN9iimSKgw&s"
+},
+{
+  "id": 17,
+  "name": "car door",
+  "description": "so that you can get in and out of your car",
+  "price": "800$",
+  "author_id": 17,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKvAuE2MK6M4YzLz4QGCUwnBQu5gAn2SfGg&s"
+},
+{
+  "id": 18,
+  "name": "car door",
+  "description": "so that you can get in and out of your car",
+  "price": "800$",
+  "author_id": 18,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKvAuE2MK6M4YzLz4QGCUwnBQu5gAn2SfGg&s"
 },
 
 ]

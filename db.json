@@ -183,11 +183,35 @@
 },
 {
   "id": 18,
-  "name": "car door",
-  "description": "so that you can get in and out of your car",
-  "price": "800$",
+  "name": "Rear view mirrors",
+  "description": "so that the driver can see the road behind the car",
+  "price": "400$",
   "author_id": 18,
-  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAKvAuE2MK6M4YzLz4QGCUwnBQu5gAn2SfGg&s"
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_JQ4LlFg2BxnW6lmK3LIfBYHWPp7vwIUzEQ&s"
+},
+{
+  "id": 19,
+  "name": "side view mirrors",
+  "description": "they show the situation from the left and right sides of the car",
+  "price": "400$",
+  "author_id": 19,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW_8mQIOYhHOuUeedO74quwaP89er-lQqfjQ&s"
+},
+{
+  "id": 20,
+  "name": "Safety belts",
+  "description": "for your safety on the trip",
+  "price": "100$",
+  "author_id": 20,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaZPTOPh5PRu3KSIgr0JtCOqECmMzqYWm1Q&s"
+},
+{
+  "id": 21,
+  "name": "windshield wiper",
+  "description": "to keep your windshield clean",
+  "price": "300$",
+  "author_id": 21,
+  "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5no_iqh2kRdXOxZByPOlcIbSPzW-4M5_fOQ&s"
 },
 
 ]
